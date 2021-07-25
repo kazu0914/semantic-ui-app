@@ -1,3 +1,3 @@
 # semantic-ui-app
 
-![アプリUI](./imgages/app-ui.png)
+![アプリUI](./images/app-ui.png)
